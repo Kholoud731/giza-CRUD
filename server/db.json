@@ -1,0 +1,49 @@
+{
+  "flights": [
+    {
+      "code": "a3",
+      "date": "2024-05-31",
+      "capacity": "aaa",
+      "id": 5
+    },
+    {
+      "code": "a1",
+      "date": "2024-05-30",
+      "capacity": "18",
+      "id": 6
+    },
+    {
+      "code": "a2",
+      "date": "2024-04-26",
+      "capacity": "11",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "kholoud@test.com",
+      "password": "$2a$10$0oRHCSrAyTswfCmY.XcsceiHrkCrsd5luuPxwi.fASFvR.aqwUvB6",
+      "id": 1
+    },
+    {
+      "email": "test@email.com",
+      "password": "$2a$10$6y3PX5CMrOBZnH6IaPHcCu6b.GT7mfV/mygWrx5ytz4NNviOfDd6i",
+      "id": 2
+    },
+    {
+      "email": "test1@email.com",
+      "password": "$2a$10$PS7TD.5wZh2jz8UpMaRVOeTkkOBphbIaqRiIVHziMaOZ9qtAg.Slq",
+      "id": 3
+    },
+    {
+      "email": "test2@email.com",
+      "password": "$2a$10$IYw3pBCc9VDNDouzylfd7es4.VQkcz7Ib/PUBMrkSXoRk6SxyxsGu",
+      "id": 4
+    },
+    {
+      "email": "test3@email.com",
+      "password": "$2a$10$NegHi3P6CCbYCRMn6b2MBOm68nmV2GfLj8tJcpf4i3NEeSZDGv2d6",
+      "id": 5
+    }
+  ]
+}
